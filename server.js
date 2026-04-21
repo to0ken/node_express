@@ -1,5 +1,5 @@
 import express from 'express'
-import {initDatabase} from "./database/database.js"
+import {initDatabase} from "database/database"
 
 import apiRoutes from "./routes/api.js"
 import pageRoutes from "./routes/pages.js"
